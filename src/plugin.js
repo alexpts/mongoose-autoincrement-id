@@ -1,7 +1,7 @@
 "use strict";
 
 const Factory = require('./factory.js');
-const counters = Factory('counter');
+const counters = Factory();
 
 counters.Factory = Factory;
 
