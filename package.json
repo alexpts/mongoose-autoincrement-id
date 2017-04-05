@@ -1,0 +1,24 @@
+{
+  "name": "mongoose-autoincrement-sequence",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexpts/mongoose-autoincrement-id.git"
+  },
+  "keywords": [
+    "mongoose",
+    "autoincrement",
+    "sequence"
+  ],
+  "author": "Alex Pavlov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexpts/mongoose-autoincrement-id/issues"
+  },
+  "homepage": "https://github.com/alexpts/mongoose-autoincrement-id#readme"
+}
